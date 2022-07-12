@@ -59,5 +59,9 @@
   },
   "bugs": {
     "url": "https://github.com/paularmstrong/swig/issues"
+  },
+  "browser": {
+    "fs": false,
+    "path": false
   }
 }
